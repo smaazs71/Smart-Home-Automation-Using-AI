@@ -15,7 +15,7 @@ Features of the application include :
 5)Auto Scheduling: This feature enables the program to schedule the user automatically after confirming with the user on the basis of usage. To be honest, It is an incomplete feature the server and hardware side programming is done just the programming in app is remaining. 
 
 
-    On the Hardware end NodeMCU wifi module is used and programmed to be accessed from remote locations too. The connection is made through http protocol. The response is in String format in json structured. Then the response is analysed to control the appliance or signal the relay. 
+   On the Hardware end NodeMCU wifi module is used and programmed to be accessed from remote locations too. The connection is made through http protocol. The response is in String format in json structured. Then the response is analysed to control the appliance or signal the relay. 
 
-    To link the hardware and the app a server is created using a website which can be accessed through Http protocol.
+   To link the hardware and the app a server is created using a website which can be accessed through Http protocol.
 The server is manipulated by application and manipulates the hardware.
