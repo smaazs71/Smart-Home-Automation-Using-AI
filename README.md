@@ -2,6 +2,8 @@
 Home Automation system using Android App with some AI and NodeMCU (Wifi module).  
 There are a bunch of home automation apps in the market.
 So it was very much difficult to find an advancement in the domain.
+We have tried to make some changes and built the whole system along with the app from scratch.
+
 Features of the application include : 
 
 1)Voice access :- The program is designed to access through voice commands. It uses basic NLP for achieving its goal.
